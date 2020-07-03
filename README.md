@@ -20,6 +20,6 @@ Russian:
 
 PCSV доступен на двух языках (русском и английском) и использует свободную лицензию GPLv3.
 
-![Скриншот 1](screenshots/Снимок экрана (5).png"PCSV launched in Windows Terminal (available for download at Microsoft Store)")
-![Скриншот 1](screenshots/Снимок экрана (6).png"PCSV запущен в Windows Terminal (доступен для скачивания в Microsoft Store)")
+![Скриншот 1](https://github.com/PythonGgeek/PCSV/blob/master/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(5).png "PCSV launched in Windows Terminal (available for download at Microsoft Store)")
+![Скриншот 1](https://github.com/PythonGgeek/PCSV/blob/master/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(6).png "PCSV запущен в Windows Terminal (доступен для скачивания в Microsoft Store)")
 
