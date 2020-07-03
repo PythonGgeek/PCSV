@@ -19,3 +19,7 @@ Russian:
 Для использования PCSV, вам просто нужно его запустить и следовать его инструкциям))) В нём отсутсвуют флаги и параметры.
 
 PCSV доступен на двух языках (русском и английском) и использует свободную лицензию GPLv3.
+
+![Скриншот 1](screenshots/Снимок экрана (5).png"PCSV launched in Windows Terminal (available for download at Microsoft Store)")
+![Скриншот 1](screenshots/Снимок экрана (6).png"PCSV запущен в Windows Terminal (доступен для скачивания в Microsoft Store)")
+
