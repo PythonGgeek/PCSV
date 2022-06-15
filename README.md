@@ -21,5 +21,6 @@ Russian:
 PCST использует свободную лицензию GPLv3.
 
 ![Скриншот 1](https://github.com/s1ezy/PCST/blob/master/Screenshots/1.png?raw=true "PCST launched in Windows Terminal (available for download at Microsoft Store)")
+
 ![Скриншот 1](https://github.com/s1ezy/PCST/blob/master/Screenshots/2.png?raw=true "PCST запущен в Windows Terminal (доступен для скачивания в Microsoft Store)")
 
