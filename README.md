@@ -1,5 +1,4 @@
 # PCST - PythonCheckSumTool for Windows
-English:
 
 Simple, convenient and portable (no installation required) checksum tool written in Python.
 
